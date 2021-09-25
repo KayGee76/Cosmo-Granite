@@ -1,0 +1,26 @@
+{
+  "id": "b3ac3ef1-d290-4adf-bc2b-023d25d92472",
+  "name": "ALBaseProject",
+  "publisher": "Default publisher",
+  "version": "1.0.1.5",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 60000
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALBaseProject.com/help/",
+  "showMyCode": true,
+  "runtime": "6.3"
+}
